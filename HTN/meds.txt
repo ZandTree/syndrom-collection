@@ -1,0 +1,73 @@
+------------ HTN emergency ---------------------------------
+
+1. 
+list of possible meds 
+            ############################ 
+##########      Clevidipine - ЗВЕЗДА     ######################
+Хотя зависит от больницы, но Конан использует этот быстрый управляемый Препарат
+
+-- Нитропруссид
+-- Нитроглицерин
+-- Эсмолол
+-- Лабеталол
+-- Nicardipine
+-- Clevidipine* 
+-- Fenoldopam 
+
+рассмотрим их подробнее по механизму действия:
+увеличивают содержание окисда азота NO -> cGMP -> vaso-dilatation 
+------------------- NO --------------------------------------------
+-- Нитропруссид
+-- Нитроглицерин
+-------------------- b-blockers ----------------------------------
+-- Эсмолол
+-- Лабеталол
+-------------------- Ca channels blockers ------------------------
+-- Nicardipine
+-- Clevidipine* 
+
+------------------- Dopamine agonist -----------------------------
+-- Fenoldopam 
+
+
+------------------- Подробнее детали  --------------------------------------------
+-- Нитропруссид  - расширяет и вены, и артерии; он хорош у поцов с HF  
+let op: pt на выоких дозах 2 day+  от начала Нитропруссида стал altered, HCO3 goes down
+т.е. поц двигается в сторону lactic acidosis - это проявление ЦИАНИДНОЙ активности этого чуда-Нитропруссида
+
+-- Нитроглицерин - расширяет ТОЛЬКО вены; он хорош у поцов с ACS  
+                   по сравнению с другими мед он относ медленно снижает АД и + голов боль
+                   есть тахи-филаксия (чаще используешь - меньше эффект)
+
+-------------------- b-blockers ----------------------------------
+-- Эсмолол - ultra short-acting (T 1/2 = 9 min), rapidly titrable
+             легко дозировать в АД 
+             хорош у поцов с aort dissection
+let op: bad for pt c HF;
+        can cause reactive airway drug disease  (check)
+
+-------------------- Ca channels blockers ------------------------
+-- Nicardipine  - предотвращает cerebral vasospasm (хорош для поцев с stroke);
+                  хорош у поцов с stroke 
+
+-- Clevidipine* - ultra short-acting (T 1/2 = 5-15 min), rapidly titrable
+                  легко дозировать в АД 
+                  хорош у поцов с aort dissection и вообще у ВСЕХ! 
+                  НО contra: severe aorta stenosis; pt allergic to eggs/soy  
+
+------------------- Dopamine agonist -----------------------------
+
+-- Fenoldopam - хорош для поцев с повреждением почек, т.к. поддерживает 
+                перфузию в почках, но при этом снижает давление
+                хорош у поцев с AKI (acute kidney ingury)
+
+см обзор хорош - плох в ./images/compare.jpg
+2. 
+/consciousness/LOC/AMS/infections/Q-fever.txt
+clevidipine drip (Ca blocker )
+
+fk: Snelle verlaging van de bloeddruk in de peri-operatieve setting bij volwassenen.
+CLEVIPREX, 50 ml EMULSIE VOOR INJECTIE 0,5 mg/ml	€ 174,4
+Na toedienen van een infusie (1–2 mg/uur) daalt de systolische bloeddruk binnen 2–4 min met 4–5%; de mediane tijd tot bereiken van de streefwaarde is 5–11 minuten. Reflexbradycardie kan optreden.
+
+Werkingsduur: na stoppen van het infuus treedt volledig herstel van de bloeddruk binnen 5–15 min op.

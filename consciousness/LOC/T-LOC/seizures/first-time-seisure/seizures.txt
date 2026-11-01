@@ -1,0 +1,185 @@
+перевод статьи - Первый раз судорги 
+Initial Management of Seizure in Adults
+Author: Phil E.M. Smith, M.D.Author Info & Affiliations
+Published July 14, 2021
+N Engl J Med 2021;385:251-263
+DOI: 10.1056/NEJMcp202452
+
+-------------------- Затравка - Шо делать? ---------------------------------------------
+
+В доставлена Ж после впервые возникших тонико-клонических судорог.
+
+Молодая Ж, 18 лет, накануне на вечерике выпила алк, вернулась поздно.
+Вскоре после пробуждения коллабировала без предвестников.
+Её МЧ заметил судорги, посинения лица, боковой прикус языка.
+дева пришла в сознание и память в амбюлансе
+
+В анаменезе: никогда не было судорог:  в частности 
+-- не было подёргиваний ногами-руками НА РАССВЕТЕ (при пробуждении)
+-- чувствительности на мелькание света 
+-- blank spells (проверь) 
+
+------------------ Conclusions и Recommendations -----------------------
+Ж с the first generalized tonic–clonic seizure developed after sleep loss и алко. 
+Анаменз: это был  isolated event, без  myoclonic jerks или absences в прошлом.
+Нужно сделать MRI of the head, interictal EEG и  12-lead ECG. 
+Поц должна знать о рисках утопления и внезапной смерти. 
+(including drowning and SUDEP), и вождении. 
+
+Медикация это не то, что стандартно назначат после первого раза однократных судорог.  
+Однако, если в межприступном периоде на ЭЭГ будет  spike-and-wave activity, отражающие высокий риск recurrent seizure, 
+то посоветуем деве таки начать терапию (levetiracetam + folate)
+Provided that this patient did not have depression or anxiety, I would favor levetiracetam administered with a folate supplement since the patient is of childbearing potential. 
+I would arrange follow-up in 2 months to review the patient’s response and adherence to the medication regimen and any adverse effects.
+
+----------------- Обзор -----------------------------------------------------------------
+
+Встречаемость непровоцируемых судорого в первый раз среди взрослых - 23-61 случаев на 100 000 чел. 
+Судорги оказывают влияние на работу, соц контакты и вождение транспорта. 
+После первых непровоцируемых судорого риск повторного приступа == 60% 
+Обычно это происходит в первые два года после первого приступа. 
+Эпи чаще в развивающихся странах. 0.6 % в популяции 
+
+-------------------Диагноз эпи ставится--------------------------------------------------
+Если было 2 непровоцируемых приступа (с разницей во времени более 24 часов)
+или 
+Если приступ был один (если он из рисковой группы рецидива приступа) (?)
+Аномальная (EEG), абнорм невроологический статус, повтор судорого - увеличивают риск рецидива. 
+
+Эти факторы - основа для начала и выбора  терапии (stratify low, medium, and high risks)
+
+---------------------------- Key Clinical Points ------------------------------
+Initial Management of Seizure in Adults
+• Клинический Дз требует ессно  detailed history taking and, ideally, an eyewitness account of the seizure.
+• Ессно нужна ЭКГ 12 отведений в случае первого приступа или необъяснимого (unexplained blackout spell)
+
+• ЭГК особенно важна у детей и молодёжи:  в течение 24 часов после превого приступа.	
+
+• Все поцы с suspected focal-onset seizure должны быть обследованы на MRI головы.
+• Всем поца нужно знать о факторах-провокаторах:
+(sleep deprivation и алко), the risk of a seizure occurring while driving or engaging in solitary activities, and the risks of harm from further seizures.
+• Данные в отсроченном периоде - 
+-- для поцов с focal-onset seizures  назначить first-line medication - lamotrigine или levetiracetam, хотя мб и другие варианты. 
+-- для поцов с генерали тонико-клон судоргами - препарат первого выбора 
+sodium valproate, 
+-- у Ж фертильного возраста с генерали тонико-клон судоргамис кроме Ж  - первым выбором будет  levetiracetam.
+
+Редко, но иногда первыми судоргами мб ЭПИ СТАТУС или серийные судорги. Это угрожающие состояния. 
+
+-----------------------Strategies and Evidence ---------------------
+
+---------------------- Постановка диагноза и эвалюация --------------------------
+
+Анамнез наше всё. Хочется свидетелей, видос записью приступа, если приступы часты. 
+
+-- Дифф ДЗ первого generalized tonic–clonic seizure приступа 
+
+Анамнез может помочь в различении ТРЁХ основных причин T-LOC
+-- epileptic seizure (provoked or unprovoked)
+-- syncope (reflex, orthostatic, or cardiac) 
+-- psychogenic nonepileptic seizure (which mimics a seizure but is caused by psychological distress rather than abnormal electrical activity in the brain)
+-- есть ещё группа с rovoked seizures, к могут случиться в контексте  alcohol withdrawal, наркоты ( cocaine и methamphetamine), и metabolic disturbances (e.g., hypoglycemia или гипо-Na-emia). 
+-- and the last: структурные аномалии в следствие hemorrhagic stroke, encephalitis, venous sinus thrombosis или опухолей.
+
+------------------------ Классификации ----------------------------------------------
+
+Судорги и эпи classified на основе типа судорог (generalized, focal, или unknown), epilepsy type, и epilepsy syndrome.
+
+Презентация будет зависеть от места короткого замыкания (generalized or focal) и патерна распределения. 
+
+Судорги могут возникнуть в любом возрасте и в любой ситуации. 
+Отсутствия продромы больше характерно для generalized onset, но приступ без продромы мб и при  focal-onset seizures, особенно, если очаг во фронтальной области. 
+Обычно при  focal-onset seizures одако есть какая-то аура "indescribable" aura — типа as déjà vu, или "rising" sensation в эпигастрии или ощущения вкуса или запаха, за которыми наступает transient altered awareness.
+
+---------------------------- Приступ -------------------------------------------
+
+A convulsive seizure обычно состоит из тонической фазы(stiffening) phase, а затем clonic (convulsing). 
+Всё вместе длиться 1-3 минуты. 
+Причём, глаза во время приступа ОТКРЫТЫ, наступает апноэ и виден цианоз. 
+Поц просыпается через сколько-то минут после, уставший и болящими мышцами. А иногда и с прикусом языка. 
+
+Иногда при рhysical examination можно найти фактор, predisposing to seizure. 
+Внимаение должно быть на кожу (например, на лице angiofibromas, hypomelanotic macules характерные для туберозного склероза, 
+или порезы клюстера при psychogenic nonepileptic seizures).
+А также позволяющие заметить нарушения cardiovascular system (an aortic ejection murmur - cardiac syncope, или ортостаз postural blood-pressure) и изменения глазного дна (например, elevated intracranial pressure).
+
+
+------------------- лаб + ЭКГ ----------------------------------------------------------
+
+основные тесты: electrolytes, сахар,calcium и магний--  potential causes of seizure или coexisting conditions. 
+
+ессно  12-lead electrocardiography (ECG) для всех первичных эпи (особенно для взрослых)  или для тех с непонятным unexplained blackout spell, чтобы не пропустить предшествующий myocardial infarction с риском ventricular tachycardia или редкой, но жизнеугрожающей (and often familial)  hypertrophic cardiomyopathy или  long QT syndromes. 
+
+----------------- Brain Imaging --------------------------------------------------------
+
+Urgent brain imaging показан всем поцам с первым в жизни эпи приступом. 
+СТ полезна и доступна. Однако, нужна МРИ у большинства взрослых с первым приступом (особенно при focal-onset seizure) или ранней эпилепсии с detailed magnetic resonance imaging (
+MRI; ideally 3-T MRI with <3-mm slice thickness on T2-weighted imaging и fluid-attenuated inversion recovery11) is warranted to identify more subtle underlying causes such as hippocampal sclerosis, focal cortical dysplasia или опухоль, к можно прооперировать. 
+
+---------------- Electroencephalography ЭЭГ --------------------------------------------
+Интересное замечание: 
+Interictal EEG (ЭЭГ в межприступный период) у поца с первым приступом вряд ли поймает to capture another seizure, однако может спровоцировать psychogenic nonepileptic seizures. 
+
+
+EEG наиболее информативна у поцов моложе 25 years of age, т.к. у этих поцов чаще наблюдается субклиническая межприступная активность, к может подтведить склонность к generalized seizure tendency и хорошо прогнозирует приступы в бдущем (70% positive predictive value).
+
+EEG сразу (в течение 24 часов) после первого выявит больше  epileptiform аномалий, чем ЭЭГ, сделанная позже;
+51% против 34% 
+EEG можно также провести в поликлинике с депривацией сна. 
+Наличие эпи активности между приступами - не торт (увеличенный риск рецидива в течение 1 года) 
+
+------------------- Management ------------------------------------
+Медикация - long-term терапия oral medication. Это в первую очередь при риске спонтанных судорого выше - judged to exceed 60% в течение последующих 10 лет.
+Цель - без судорого или минимальное их количество. Но не переусердствуй, т.к. если это не удаётся 100% , а ты нагружаешь мерами, то есть риск risk of sudden unexpected death in epilepsy (SUDEP) 
+
+The initiation of long-term use of antiseizure medication is a major decision that is made by the patient and the clinician. Ессено хотелось бы иметь reasonable certainty в диагнозе epilepsy; 
+Не назначай противо эпи терапию как trial period, если не уверена в диагнозе. 
+
+Если Дз ясен, то немедленная терапия после рецидива приступа лучше, чем отложенная.
+однако на долгый период это не оказывает эффекта. 
+Поэтому врачи обычно советуют не стартовать сразу , если только риск рецидива не заоблачный. 
+Некоторые поцы тем не менее хотят терапию, т.к. сильно травмировались и боятся повторения. 
+или из-за водительских прав.  
+(or because they live in areas such as the United Kingdom where a second seizure might extend the driving restriction from 6 months to 12 months.)
+
+----------------- Factors Guiding Medication Choice ------------------------------------
+выбор препарата зависит от  типа судорого (type of seizure и epilepsy syndrome)
+Обычно valproate и levetiracetam у поцов с generalized-onset seizures, а lamotrigine или levetiracetam для поцов с  focal-onset seizures. 
+
+Иногда нужно пролечить доп патологию. Например, поцы с тревогой могут захотеть  lamotrigine, а не levetiracetam.
+У поцов с ожирением или мигренью подойдёт topiramate, к подавляет аппетит и снижает % головной боли. 
+Отдельно ессно - potential pregnancy.
+В общих чертах:  
+sodium valproate - противопоказан (10% of babies exposed to sodium valproate имеют большие дефекты, а 40% 
+отмечается задержка развития нейротрубки)!
+
+ -- 10.3%  детей с major congenital malformations на вальпроате
+ -- 5.5%  на  carbamazepine
+ -- 3.9%  на  topiramate
+ -- 3.0% на  oxcarbazepine
+ -- 2.9% на  lamotrigine
+ -- 2.8% на  levetiracetam 
+ -- у детей БЕЗ контакта риск  2.6% 
+ 
+ Короче, вальпроат - хуже всех. 
+ 
+
+-------------------------------- Effectiveness of Medications ---------------------------
+примерно 50% became seizure-free на год после первой терапии .
+
+....
+--------------------------------- Areas of Uncertainty ------
+Клинический Дз не корректен в 20%, сильно помогает видео + ЭЭГ. 
+Иногда это тупо psychogenic seizures, 
+А также у эилептиков с with established epilepsy мб += additional psychogenic seizures may later develop in persons with established epilepsy. 
+Важно иметь это в ввиду при т.н. резистентной эпилепсии. medication-resistant epilepsy.
+
+Есть проблемы в терапии в прошлом.
+Пример, 
+Через  8 years после лицензии всемирно используемый vigabatrin  привёл к стойкой потере зрительных полей у 50% поцов. 
+
+until it was recognized that long-term use of this agent caused permanent visual-field defects in more than half of patients.
+
+особые группы: как обычно китайцы
+screening for the HLA-B*1502 allele in Han Chinese populations to predict the carbamazepine-induced Stevens–Johnson syndrome.
+

@@ -1,0 +1,62 @@
+Status epilepticus (see image ./status.jpg)
+
+Отв: ессно об эпилепсии, однако есть и другие поводы: 
+- травма - человека ударили по голове 
+- менингит\энцефали и прочие инфекции
+- алкаш в периоде  withdrawal ИЛИ other withdrawals (бензо)
+- если молодая Ж, то эклампсия
+
+
+Ds: 
+- дольше 5 минут один приступ
+- повторные БЕЗ восстановления сознания 
+
+1. Ессно первым делом ABCD (intubation if needed)
+2. gluc check 
+3. protect airways 
+4. benzo's 
+
+Подходим и засекаем время в минутах 
+ABCD 
+- воротничок
+- под голову шарф 
+- перевернуть на левый бок 
+
+- мед помощь ---------
+- проверка глюкозы 
+- надеть маску с кислородом 
+- защёчно мидазолам ИЛИ i.v lorazepam (max 4 mg, 0.1mg/kg)
+- repeat once if still seizing (через 5-10  минут)
+- во вторую вену: i.v. levetiracetam OR i.v sodium valproate (or phenitoin/fos-phenitoin)
+- 
+- lab на всё (инфекции, электролиты, глюкозу, мочевину,кальций, магензия)
+
+Seizure Emergency? Choose the benzodiazepine based on onset and duration:
+
+🔹 Midazolam: 🚀 Quick on, quick off (Onset: 1-2 min, Duration: 30 min).
+🔹 Diazepam: ⚡ Quick on, medium off (Onset: 1-2 min, Duration: 1 hr).
+🔹 Lorazepam: ⚖️ Medium on, long off (Onset: 5-10 min, Duration: 2-6 hrs).
+
+--------------- second choice - if epi goes on -----------------------------------------
+
+levetirecetam 60 mg/kg i.v. (max 4.5 gr)
+-- fosphenitoin 20mg PE/kg i.v. (max 1.5 gr)
+-- valproate 40 mg/kg (max 3 gr)
+
+Q: О чём мы думаем при виде судорог?
+Это provoked or un-provoked epi?
+Unprovoked epi канешн показательны, но прежде всего нужно исключить из анамнеза\лабы и проч - нет ли HYPO/electrolies dis/ect 
+Были ли типичный тонический компонент, движение глаз, спутанность после приступа
+
+
+Q: diff ds epi status?
+RE: MIRACLE
+-- Metabol (hepatic, nefro, HYPO, electrolites)
+-- Infection (menin, enceph, systemic infection)
+-- Structural (stroke, tumor, trauma, hemoffhage)
+-- Acute CNS insults (anoxia, TBI) check
+-- Compunds (meds, toxins, withdrawal)
+-- Low epi drugs (check)
+-- already well known epi
+
+

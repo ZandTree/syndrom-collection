@@ -1,0 +1,55 @@
+receptors 
+
+b1 - на сердце (SA, и даже на провод волокнах в желудочках)
+     хронторпный эффект и усиление силы сокращения 
+
+b2 - lungs, vessels, liver 
+     бронхо-, вазо- дилятаторы 
+
+--------- propranolol это УНИВЕРСАЛЬНАЯ ЗВЕЗДА -------------------------------------
+
+кардио-селективные(1)      кардио-не-селективные (1,2)    вазодиляторы (бета+альфа)
+bisoprolol                 propranolol                      carvedilol   
+esmolol                    nadolol                          labetalol
+atenolol
+metoprolol
+---------
+nebivolol*
+betaxolol
+landiolol
+
+---------------- HF с уменьшением ejection fraction ---------
+carvedilol, metoprolol SUCCINATE, bisoprolol
+
+---------------- HF c lowEF + HTN ------------------------
+carvedilol, к за счёт альфа-блок эффекта снизить BP
+
+------------- acute aFib + RVR -------------------------
+esmolol / landiolol
+
+------------- regular aFib (rythm control) -------------------------
+metoprolol
+
+------------- angina / CAD  -------------------------
+metoprolol /bisoprolol /atenolol
+
+------------- HTN  -------------------------
+nebivolol* / carvedilol
+nebivolol has nitric oxide vaso-дилятац эффект + селект в-1 блокер
+
+------------- HTN у беременных -------------------------
+labetalol /carvedilol / metoprolol / propranolol
+
+------------- портальная гипертензия  -------------------------
+carvedilol или propranolol
+
+----------------- congenital log QT interval (Sd) ---------------------
+nadolol / propranolol
+
+---------- PROPRANOLOL -------------------
+- страх пойти и поработать 
+- essential tremor 
+- migrane 
+- гипер токсикоз
+- врожд proloned QT interval
+- portal hypertension

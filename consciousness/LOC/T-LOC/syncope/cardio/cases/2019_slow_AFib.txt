@@ -1,0 +1,50 @@
+CPS Syncope Stephanie 
+https://clinicalproblemsolving.com/2019/01/31/episode-12-syncope-with-dr-stephanie-sherman/
+
+spoiler: slow atrial fibrillation с prolonged pauses, а также  nonsustained VT (NSVT)
+Non-sustained ventricular tachycardia (NSVT): 3 or more consecutive rapid heartbeats (premature ventricular contractions) that stop on their own in less than 30 seconds
+
+                            Problem Representation
+                            ======================
+A 58-year-old man with a history of:
+non-ischemic cardiomyopathy c HF (echo EF 25%) & cardiac cyrosis && HTN предстал после внезапного syncope без продромы (unheralded syncope) и обнаруженной аритмией на  ECG и telemetry.
+
+
+PMX: пол года назад видел своего кардиолога
+    к повысили ему дозу carvedilol с 6.25 mg 2dd ==> 12.5 mg 2dd;
+    лизиноприл 10 мг 1dd
+    фуросимид  40 мг 2 keer per week as needed (fluid retention) 
+
+CC:
+Разговаривал с боссом, Голос босса вдруг отдалился и пришлось сесть.Потом открыл глаза, а вокруг люди.
+В общем на фоне благополучия ДО эпизода (фуросимид не употреблял накануне).  (T)LOC длилась пару минут, без жалоб на сердцебиение, диспноэ, пот, тошнота и т.п. 
+
+Vitals EMS: HR 40;  BP 80+/no info; 
+
+Итак, М с не-ишемической кардиопатией на сердечной медикации в эпизодом синкопа без особой продромы. 
+                        Schemas -  three broad categories
+                        =================================
+- neurocardiogenic/reflex
+- orthostasis
+- cardiac syncope.
+
+Vitals: 
+at rest HR 40's (irreg, irreg), однако при нагрузке возрастает до HR 80 /min ;
+т.е. у него полож хронотропик response;
+
+BP 110/70; JVT: g.b.
+ortho drop: negative |=> NO ortho ideology here (хе-хе)
+
+LO: no trauma signs,
+pulm: clear 
+cor: g.b (brady +); no murm; 
+ECG: slow rythm (40's) aFib
+
+Stephanie тем не менее боится аритмогенного эффекта от существующей патологии: non-ischemic HF in form of Ventr arrhythmia 
+meds: stoped;
+telemetry: consistant brady; BP в это же время оставалось норм, симптомов НЕ БЫЛО 
+Одкако, в какой то момент появились паузы по 3 сек + one run of nonsustained VT (30 sec) 
+                        Diagnosis
+                        =========
+ECG и telemetry показали slow atrial fibrillation с prolonged pauses, а также  nonsustained VT as следствие аритмогенного процесса из-за non-ischemic HF
+Лечение: undergo implantation of a cardioverter-defibrillator.

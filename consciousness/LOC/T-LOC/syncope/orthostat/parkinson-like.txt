@@ -1,0 +1,55 @@
+https://www.youtube.com/watch?v=EoG1u7zmkw4
+October 26, 2021 Neuro VMR: 
+
+spoiler: rare MSA - progressive neurodegenerative disorder
+
+
+---------- episodic transient loss of consciousness --------------
+M, 72 yo более-менее последний год стал периодически терять сознание (часто  shortly after еды) + в этот же год стал плохо ходить (от норм до роллятора) 
+Полгода писается (уролог причин нет) + стал часто падать 
+
+Мед особно нет (лаксанты)
+
+Обсуждение:
+---Дифф Дз шёл сначала от syncope vs seisure 
+Потом перешли к сложностям отделить на практике одно от другого. 
+Хотели притянуть NTH (гидроцефалию, учитывая мочу и походку), но там не бывает особо синкопов. 
+
+---------- Отгадка при осмотре и незамысловатых (neuro) тестах -----------
+
+BP (через 1 и 3 мин падало ниже 20 и 10 мм рт ст, HR особо не повышался)
+Ну и дедушка, хотя и не имел галлюков и делюзий, но что-то когнитивно был не торт, говоpил медленно (MMSE 21/30).
+Пальцами пиллюльки катал 
+Демо increased muscle tone + cof-wheeling
++ celrebellum: dysmetria + адиадохокинез 
++ походка медленная, shuffling
+standing - не мог соединить стопы и стоять 
+
+-------------------Imageing----------
+ MRI norm
+------------- Lab ------------------
+Vit's norm, HbA1C norm; infec - none; CBC + chem: norm 
+
+
+---------- диагноз --------------------------------------------------
+Сначала дз был в виде ортостаза с паркинсонизмом неизвестной природы 
+(гидроц и деменцию не смогли нахобучить) 
+Начала леводопу, но поц на не ней не особо улучшился. 
+
+Дз: очень редкое заоблевание multiple system atrophy 
+
+деменции не было, гидроцефала (моча, походка) тоже не было
+--------------------- pearls ----------------------
+Традиционный parkinson - сильно укатывает автономную регуляцию  всяких периф нервов и сосудов - больные падают часто из-за орто  
+когда дз паркинсон неясен, то пробуют леводопу. она помогает, а если похожее на паркинсон, то эффект слабый (как у этого поца)
+
+
+дз: под-семействе паркинсонизма - редкие формы с похожими симтомами
+MSA - progressive neurodegenerative disorder characterized by a combination of symptoms that affect both the central nervous system (which controls how a person moves), and the autonomic nervous system (which controls involuntary functions such as blood pressure or digestion). MSA was formerly known as Shy-Drager syndrome, olivopontocerebellar atrophy (OCPA), or striatonigral degeneration.
+Test: дорого и редко - Dopamine transporter (DaT) scans can assess the distribution and activity of dopamine in the brain
+
+лечение: чулки, соль, малые порции, короче всё мало помогает
+
+
+
+

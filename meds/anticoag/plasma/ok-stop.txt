@@ -1,0 +1,47 @@
+FB https://www.facebook.com/reel/2198331154419106 (check - там под конец много мутного)
+
+Eliqquis anti-Xa DIRECT ингибитор (Apixaban)
+то место, где встречаются внутр и внеш пусть коагуляции.
+короче, у тромбина нет шансов на синтез 
+показания: РЕ, DVT, stroke
+
+приём: 2 dd (T 1/2 = 12 H)
+выделение: 75% печенью, 25% почками
+
+pearl: if bleed |==> fresh frozen plasma
+----------------------- Перед ОК -----------------------
+Когда затевать лаб обследование у поца на 
+Отв: 
+--- если время последнего введения неизвестно 
+--- почеч функция непредсказуема 
+
+========= обычные тесты не особо помогут =========================
+-- PT/INR unreliable (if normal |=> ещё не показатель)
+-- аРТТ - вообще его не "видит"
+
+----------------------- Best test ---------------------------------- 
+drug-calibrated anti-Xa level (ng/mL)
+здесь Apixaban-calibrated anti-Xa level (ng/mL)
+замечание: Heparin-calibrated anti-Xa tells you whether it’s there, not how much
+Under ~30 ng/mL is generally acceptable for urgent surgery or neuraxial
+
+Q: а что, если у меня нет этого теста?
+Отв:
+Положись на память поца.
+Большинству поцов не нужно brigging. 
+1-day elective surgery
+2-days high risk OK 
+neuraxial (before spinal or epidural) - 72 hours after the last 5 mg Apixaban. 
+neuraxial (before spinal or epidural) - 36 hours after the last 2.5 mg Apixaban. 
+
+Q: Что было раньше as antidote ?
+Раньше использовали ANDEXXA (рекомбинантный инактиватор Х фактора) 100мг\флакон
+
+Q: Что случилост с этим препаратом?
+ANDEXXA выгнали с рынка США (много тробозов)
+
+Q: Что пришло на смену ANDEXXA?
+Kcentra (protrombin complex concentrat human) - 4x компонентный состав
+Behring Gem 
+400-620 units lipoph factor |X; also containes ||, \/, protein C and S
+

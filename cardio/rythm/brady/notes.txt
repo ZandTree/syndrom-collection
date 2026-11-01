@@ -1,0 +1,103 @@
+FB о первых шагах при сообщении "у поца брадикардия" 
+
+spoiler: sympt brady => pacing
+
+пульс->симптомы->pads On->EKG->1mg i.v. atropine->pace him +/- vasopres (Levophed) if needed -> ask "why brady"? =>look at the MAR/ask nurse/
+
+Step 1
+А есть ли у поца пульс? Есть хоть какая-то перфузия? 
+
+Step 2
+Предположим, что пульс в момент конакта до сих пор есть. 
+
+Q: Следущая инфа : это symptomatic brady or pt ОГУРЧИК 
+re: 
+example, pt* c EF 25% HR 20 BP 80/40 altered, diaphoretic 
+-- Поц симптоматический? 
+-- Есть признаки шока? 
+-- Боль в груди? 
+Step 2.1
+pt symptomatic
+-- наложи pads уже в начале accessment 
+-- atropine 1 mg i.v. (мы блокируем влияние вагуса на SA and AV nodes)
+т.е. попытка скоррегировать влияние ВЫШЕ AV nodes
+-- ЭКГ: у данного поца накануне было AFlutter with slow ventricular response (high degree AV block)
+*у данного поца проблемы находилась BELOW AV node |=> поэтому реакция на атропин была с кукишок |> HR from 20 to 30. 
+atropine не мог в этом случае особо помочь.
+
+-------------------- see AHA guidelines 2025 -------------------------
+Transcutanious pacing For a high degree or nodal block 
+Непонятный термин (capture, get captured)
+Начни с 80 mA и reduce to the lowest energy that consistently initiates pacing.
+
+Поэтому pads + shock это единственное, что поцу* поможет. 
+Седация, если это возможно. 
+Итак, мы начали pacing.... увеличиваем какие-то вольты и амперы until we get captured,
+затем начинаем Levophed if you  need to maintain the MAP while you're getting capture
+
+If you get captured и BP само себя скорректировало(ось), то можно начать to wean off of the Levophed  
+It's more like bridging therapy. 
+
+Step 2.2
+While pacing думай, почему поц стал brady
+Best way, to look at the mar / или спроси м\с, чем жил поц последние пару часов. 
+
+Step
+-- 1 место: drugs toxy (ятрогенных бради) - самая частая причина развития брадикардии (если поц в обычном отделении)
+   в-блоккеры, Са2+ блокаторы, а у старых с начинающейся почечной недостаточностью (new renal failure) привычная доза превращается в --> токсическую 
+    Meds:
+    подозреваешь, что:
+    If this is a b-blocker: начини с глюкагона
+    If this is a Са2+ channel blocker: начни с кальция хлорида или глюконата
+
+-- 2-ое место MI (ECG) 
+   инфаркт нижней стенки - перекрывает кислород водителям ритма, а это приводит к 
+   high degree brady or AV block (cath lab, not only pacemaker)
+
+
+-- 3  место K+ гипер-калиемия (широкий QRS complex) -> i.v. кальций в попытке стабилизировать мембрану
+
+Let op:
+-- если первая доза атропина не сработала, то atropine можно ввести ещё 2-3 раза 
+-- затем наступает очередь АДРЕНАЛИНА 
+-- таки pacing - pacemaker 
+
+
+-------------- canada guidelines ------------------------------------------------
+desktop/med_text/public/ER/general/brady.txt
+
+В общем примерно тоже самое, как и выше. Просто выше яснее пошагово.  
+
+Если поц нестабилен, то назначь атропин и долбани дефибриллятором.
+
+-- если нестабильна синусовая бради или Mobitz I ==> атропин 0.5-1 мг в/в с перерывом в  5  минут
+   до разрешения симптомов или до общей (max) дозы атропина в 3 мг  
+   Если атропин при  ==> pacing*
+
+-- если у поца Mobitz II или third-degree AV block  ==> pacing*
+Начни с 80 mA и reduce to the lowest energy that consistently initiates pacing.
+
+Если не помог ни атропин, ни pacing ==> придётся:
+           ---  epinephrine 20-50 µg IV bolus 
+           ИЛИ 
+           ---  epinephrine 2-10 µg/min IV infusion.
+* ФБ источник: (check)
+NOR-epinephrine: 8mg in 50ml NS infused as 6-30 ml/H (titrated to pt response)
+
+
+                                Канадские профи:
+                                ===============
+If patient is unstable, initiate either atropine or transcutaneous pacing.
+-- For unstable sinus bradycardia or Mobitz I, administer atropine 0.5-1 mg IV q3-5min until resolution or the maximum dose (3 mg) is reached.
+-- If atropine is ineffective or in cases of Mobitz II or third-degree AV block, initiate transcutaneous pacing.
+                                PEARLS
+                                ======
+
+If there is no response to atropine and/or transcutaneous pacing, administer epinephrine 20-50 µg IV bolus or epinephrine 2-10 µg/min IV infusion.
+
+                                Transcutaneous pacing
+                                =====================
+1. Place pads on the patient’s chest at base and apex locations (or anterior/posterior).
+2. Activate pacing.
+3. Adjust energy delivery of the pacing stimulus.                               
+Start at 80 mA and reduce to the lowest energy that consistently initiates pacing.

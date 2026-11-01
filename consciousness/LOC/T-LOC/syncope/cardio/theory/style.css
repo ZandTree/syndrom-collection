@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(248, 245, 242);
+};
+.sub-main {
+    background-color: bisque;
+    max-width: 90%;
+    margin: auto;
+}
+.center{
+    text-align: center;
+}
+.col-container{
+    display: flex;   
+    flex-direction: column; 
+    justify-content:space-around;
+    border: solid black 1px;
+}
+.col__title{
+    width: 100%;
+    border: solid green 2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.col__title div{
+    background-color: cadetblue;
+    flex-direction: column;
+}

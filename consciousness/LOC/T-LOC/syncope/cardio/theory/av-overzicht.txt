@@ -1,0 +1,183 @@
+AV node
+
+Традиционные дыры в знаниях?
+
+Q: зачем мне эти знания?
+Отв: tachy + brady
+вокруг АВ узла крутятся не только маловедомые мне тахикардии, но и brady - блокады ритма.
+
+AV node - единственные проходные ворота для элект импульса от предсердий.
+Это тормоз! что понятно, желудочкам нужно отдохнуть и наполниться в диастолу.
+Это также помогает отсеять бешеные частоты, посылаемые предсердиями при их сбое. 
+
+Q: А где расположен АВ узел?
+Отв: внутри триугольника Коха в основании правого желудочка. Мне фиолетово, а нужно тем, кто будет выполнять возможную аблацию.
+Важно помнить, что АВ узел питается от правой коронарной артерии, но могут быть другие варианты. 
+
+Ну мы знаем АВ узел не только как проводник, но и как генератор (при необходимости)
+
+Q: АВ узел как тормоз и другие особенности?
+Отв: между его клетками меньше gap junctions ==> contributing to slow conduction velocity and decremental conduction.
+Короче, это 4 мм сообщество клеток с кучей мелких структур, влияющих на их способность проводить, образовывать импульс или вовлекаться в а-ритмогенность.
+
+
+                                Q: АВ узел и blocks (heart)
+                                ====================
+Фиброз, дегенерация, миокардит, инфильтрация, врождённые проблемы, препараты и структурные заболевания
+
+------------------------------- first degree block -----------------------
+-- const  задержка проведения импульса внутри самого АВ узла
+   наблюдается const удлинение интервала PR, но длина интервала P-P при этом равна const
+Лечение: не нужно   
+
+------------------------------- second degree block -----------------------
+-- Mobitz type I (Wenckebach) - прогрессивная задержка проведения импульса внутри самого АВ узла
+                              в результате усиливающейся рефрактерности наблюдается всё более удлиняющийся интервал PR (Pq), что в конечно итоге заканчивается пролной 
+                              блокадой проведения и выпадением комплекса QRS
+                              ЭКГ: grouped beating pattern
+                              P-P interval = разный и всё увеличивающийся   
+Лечение: не нужно                                 
+
+-- Mobitz type II             - обычно с проблемной передачей по Гис-Пуркинье (т.е. дистально АВ узла)
+                               и возникает по серьёзной структурной причине;
+                               ECG: p-QRS + p-QRS + p-QRS + внезапно нет QRS complex;
+                               P-P interval = const 
+Лечение: pacemaker                                   
+
+Q: кто хуже: Mobitz I или Mobitz II in second degree heart block?
+Отв:
+Хотя блок в обоих системах, но хуже Mobitz II. Mobitz II (см выше) из-за серьёзности причины формирования
+имеет больший риск прогрессирования до Х-ца. 
+Лечение при Mobitz II - pacemaker из-за риска синкопов, нарушений гемодинамики и внезапной смерти. 
+(ессно надо исключить причины, к можно устранить)
+
+----------------------------- thirs degree heart block --------------------------- 
+
+atria     in own rythm 
+ventricle in another rythm, ессно медленно ЧСС 30-55 ударов в минуту 
+Короче, желулочки живут своей жизнью.
+Лечение: pacemaker
+
+
+
+Итак, блокады самая частая причина установки pacemaker в современном стареющем мире.
+
+                               Q: Atrioventricular Nodal Reentrant Tachycardia
+                               ===============================================
+Самая частая форма регулярной тахикардии у взрослых (пароксизмальной Супра-вентр тахикардии)
+и связана с существованием врождённых\приобретённых "дорожек" с быстрым и медленным течением электричества по ним (с разным рефрактерным периодом в частности)                               
+AV-Nodal-reentry tachy в основном из-за циклов while по площади\периметру АВ узла.
+
+Однако, причина, почему этот бесконечный водоворот импульса в природе запускается, это ВНЕПЛАНОВЫЙ ИМПУЛЬС ИЗ ПРЕДСЕРДИЯ ==> Premature atrial impulse
+
+Premature atrial impulse запускается по медленному пути, а в это время (ВОЛК) идёт по быстрым волокнам навстречу (т.к. по ротонде ретроградно) и вписывает туда ток. И как заколдобит, как заколдобит 
+
+Симтромы: сердцебиение, дискомфорт в грудной клетке, обышка, головокружение, беспокойство и СИНКОП 
+
+Лечение: прижечь медленный путь. процедура относительно безопасна и с хорошим отсроченным результатом. 
+
+
+                             Atrioventricular Nodal Ischemia and Inferior Myocardial Infarction
+                             ==================================================================
+Артерия для АВ узла от правой коронарной артерии. 
+Обычно при инфаркте ниженй стенки - повреждается АВ узел. 
+
+осложнением того инфаркта являются разной степени блоки: 
+от first-degree atrioventricular block до complete heart block ==>  carries important prognostic implications 
+
+Прогноз: 
+Обычно эти блоки транзиторные из-за ишемии или увеличении тонуса ВАГУСА, но могут и заколдобить, что потребует pacemaker (временно или постоянно)
+
+                            Drug-Induced Atrioventricular Nodal Dysfunction
+                            =============================================== 
+Фарма вносит немалый вклад в бради аритмии и блокады. 
+Рой весёлый:  beta blockers, nondihydropyridine calcium channel blockers, digoxin, adenosine, amiodarone, and other antiarrhythmic agents 
+Важно учитывать, чтобы не поставить pacemaker  напрасно. 
+
+                            Ятрогенное - Procedural Atrioventricular Nodal Injury 
+                            ======================================== 
+ОК по поводу (врождённых) аномалий, аблации, ОК на перегородке и transcatheter aortic valve replacement (TAVR)  могут капитально повредить АВ узел. 
+TAVR - самая частая причина pacemaker из всех перечисленных осложнений процедур. 
+
+                            Congenital and Genetic Conduction Disorders 
+                            ============================================ 
+-- maternal anti-Ro/Sjögren syndrome–related antigen A и 
+   anti-La/Sjögren syndrome–related antigen B autoantibodies                            
+-- каналопатии  
+
+                            Infiltrative and Inflammatory Disease 
+                            ===================================== 
+Саркоидоз, амилоидоз, миокардит, Лайм кардит могут вовлекать АВ узел и Гис-Пуркинье систему в виде БЛОКА 
+
+
+                            Cystic Tumor of the Atrioventricular Nodal Region 
+                            ================================================== 
+Уж совсем удивительно, но могут быть опухоли - мезетелиома в области триугольника Коха. 
+
+Симтромы: varying degrees of atrioventricular block, including complete heart block, junctional escape rhythms, syncope, malignant arrhythmias, and sudden cardiac death. 
+
+Важно помнить об этом у молодых с необъяснимым блоком. 
+
+---------------------------- ВИДЫ ------------------------
+                     -- AVNRT 
+Обычно slow–fast AVNRT 
+ре-ентри импульс антеградно плывёт по медленному пути, активируя Гис-Пуркинье и желудочки
+После этого плывёт уже ретро-градно по быстрому пути (обратно в предсердие)
+при этом получается ретроградный зубец Р сразу после QRS complex 
+
+Typical AVNRT проявлется a short-RP narrow-complex tachycardia и может show a pseudo-R′ в lead V1 
+or 
+pseudo-S waves in the inferior leads.
+Лечение: Catheter ablation медленного пути как  definitive therapy for symptomatic AVNRT
+
+                  -- Atrioventricular reentry tachycardia 
+Макро ре-ентри тахикардия из-за дополнительного сообщения с желудочками (WPW)
+Есть однако orthodromic AVRT - импульс антеградно идёт через АВ узел и Гис-Пуркинье и возвращается по "дополнительному соединению" ретроградно с образованием narrow-QRS tachycardia. 
+Есть однако antidromic AVRT - импульс антеградно идёт по дополнительному пути с образованием  wide-QRS tachycardia. 
+                            Диф дз 
+                            ======
+При  orthodromic AVRT, conduction travels through the atrium → atrioventricular node/His–Purkinje → ventricle → accessory pathway back to the atrium.
+
+
+При AVNRT, the reentrant circuit is confined within dual atrioventricular nodal pathways and does not require an extranodal accessory pathway
+
+                     -- Junctional escape beat 
+АВ узел не получает импульса от предсердий 
+АВ узел генерирует импульс с частотой 40-60 уд в минуту 
+
+ЭКГ:  
+regular narrow-QRS rhythm (ЧСС 40-60 мин) с отсутствием P waves 
+или
+inverted P waves that may precede, be inscribed within, or follow the QRS complex due to retrograde atrial activation
+
+
+                     -- Junctional ectopic tachycardia 
+
+Младенцы и после сердечных ОК 
+
+Импульс в АВ узле перекрикивает синусовый. 
+Аденозин заглушит AVNRT, но не прикончит JET. 
+
+                  -- Wolff–Parkinson–White syndrome 
+
+Пучок Bundle of Kent сам по себе путь к желудочку (врождённый), ему не нужен АВ узел. 
+Из-за этого желудочки деполяризуются раньше 
+
+На ECG:  при WPW a short PR interval и a widened QRS complex with a slurred initial upstroke, known as the delta wave.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

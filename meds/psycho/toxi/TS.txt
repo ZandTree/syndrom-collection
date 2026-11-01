@@ -1,0 +1,14 @@
+Эвтаназия, тюрьма и проч. 
+см также ./psycho/sleep/end-meds.txt
+
+Случай в сша 
+
+Pentobarbital not phenobarbital (end-meds.txt)
+---------------- 5 gr Pentobarbital------------------
+
+opinion N1:
+дело не в препарате, а в способе его введения. 
+Pentobarbital очень сильно щелочной (pH 9), действует недолго. он не просто может попасть в поле около вены, он пропитывает окружающие ткани. 
+-- if it infiltrates tissue instead of vein (extravasation) it burns and never reaches circulation
+
+Обычно в РАО используется пропофол. 

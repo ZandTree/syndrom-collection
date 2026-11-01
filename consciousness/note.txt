@@ -1,0 +1,56 @@
+В этой folder попытка сконцентрировать (острые) расстройства с потерей и снижение уровня сознания 
+
+Rabi: делает схему, очерченную кругами
+Q: Что в наружном слое?
+Это SAH and Cerebral Edema
+
+Q: Что в сердцевине?
+Отв: seirure, syncope, TIA (details), HYPO
+
+Однако, тут всплывает делирий и нарушения бодрстования (сомноленция, ступор, кома) 
+
+В общем, всё несколько смешалось.
+
+----------------------------- Schema chatGPT -------------------------------------------
+
+множесто LOC состоит из подмножества Temporary-LOC и длительная потеря prolonged-LOC (coma). 
+
+Disorder of consciousness / arousal: 
+
+за основу взять уровень бодрстовавния
+-- redused arousal
+   -- somnolence
+   -- stupor 
+   -- coma 
+
+Loss of consciousness: 
+
+это если за основу брать событие
+-- T-LOC  (syncope, seirure, others)
+-- prolonged-LOC   
+
+-------------------- куда запихнуть ДЕЛИРИЙ? --------------------------------------
+
+делирий мб в комбинации с сомноленцией
+делирий мб в комбинации с возбуждением 
+
+Delirium может включать в себя Altered mental status (или дезорганизованное мышление),
+в т.ч. флюктуацию mental status, а также невнимательность
+
+поэтому его отнесём к нарушению cognition 
+
+                    entity_type
+                        │
+        ┌───────────────┼────────────────┐
+        │               │                │
+      STATE           EVENT           PATHOLOGY
+        │               │                │
+ Somnolence          LOC          Cerebral edema
+ Delirium             │
+ Stupor              T-LOC
+ Coma                 │
+                   Syncope/seirure/others
+
+
+
+

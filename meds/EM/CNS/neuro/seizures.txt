@@ -1,0 +1,5 @@
+Seizure Emergency? Choose the benzodiazepine based on onset and duration:
+
+🔹 Midazolam: 🚀 Quick on, quick off (Onset: 1-2 min, Duration: 30 min).
+🔹 Diazepam: ⚡ Quick on, medium off (Onset: 1-2 min, Duration: 1 hr).
+🔹 Lorazepam: ⚖️ Medium on, long off (Onset: 5-10 min, Duration: 2-6 hrs).

@@ -1,0 +1,41 @@
+https://www.jems.com/patient-care/emergency-medical-care/death-with-dignity-when-the-medical-aid-in-dying-cocktail-gets-into-the-wrong-hands/
+
+Colorado - medical aid in dying 
+
+Старт: 
+Агонисты GABA receptors |=> benzo (diazepam) + Barbiturate - Аnxiolysis, induce coma, 
+Morphine |=>  analgesia
+TCA + digoxin |=>  provoke arrhythmia
+
+Mixing the two GABA agonists and the opiate causes profound respiratory depression 
+т.к. были случаи, когда коктель не работал добавили аритмогенные препараты (TCA, digoxin)
+
+-- Amitriptyline in high doses disrupts cardiac function through sodium and potassium channel blockade in myocardial cells. 
+-- Digoxin increases intracellular calcium and in high doses can lead to ventricular tachycardia. 
+-- In some cases, an antiemetic is also recommended so the patient does not vomit after ingestion.
+
+------------------------ Состав --------------------------------
+
+The bottle contains:
+--  digoxin 100 mg         (0.1 gr)
+--  diazepam 1,000 mg      ( 1 gr)
+--  morphine 15,000 mg     (15 gr)
+--  amitriptyline 8,000 mg ( 8 gr)
+--  phenobarbital 5,000 mg ( 5 gr)
+
+антидоты: 
+-- 2 мг Налоксона в\в 
+-- nasogastric tube is placed and he is given 100 grams of activated charcoal
+-- The QRS complex is observed to be prolonged, so 2mmol/kg of Sodium Bicarbonate was given. 
+-- the patient is administered digibind 
+
+------------------ i.v. --------------------------------------
+------------------------ old protocol -------------------------
+midazolam  - sedation 
+vecuronuim - paralysis
+KCl        - arrhythmia
+------------------------  new protocol --------------------------
+phenobarbital only
+Barbiturates aren't as dangerous as most people believe them to be. 
+There may be some cross-tolerance with alcohol and/or intercurrent alcohol withdrawal
+

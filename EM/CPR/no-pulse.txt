@@ -1,0 +1,51 @@
+реанимация поца без пульса. check it
+
+1. сначала ессно ручками: chest compressions 30:2
+2. unsynchronised DC shock 200J Biphasic 
+
+3. adrenaline 1 mg i.v every 3-5 min 
+4. amiodarone 300mg i.v. bolus 
+go on ....
+нижн несколько иначе
+
+
+--------------- ACLS pulseless VT or vFib---------------------
+
+поём песню - gingle bells
+
+шок = означает дефибриляцию 
+адреналин через каждые 3-5 минут
+
+---------- теперь последовательность ------------------
+шок -> (шок + адреналином) -> (амиодарон или лидокаин)
+
+сначала руками compression -> в это время готовим pads из упаковки  
+
+первый dry shock - сухой,т.к. мы не даём адреналина
+все последующие будут wet shocks, т.к. мы добавим к электричеству препараты
+ко второму шоку - адреналин
+к третьему      - амиодарон 
+
+-------------- no pulse -----------------------
+
+Shock (CPR), shock (CPR +epi), shock (CPR + lidocaine or amiodarone).
+сначала dry shock |=> потом wet shock
+
+
+Q: в чём мутность?
+Отв:
+какие-то dry vs wet shocks 
+
+
+Q: какие причины можно подпилить, чтобы выйти из шока?
+Отв: какие-то Н's или Т's
+-- Hypovolemia,
+-- Hypoxia,
+-- Hydrogen ions (acidosis),
+-- Hypo/Hyperkalemia,
+-- Hypothermia
+-- Tension pneumothorax
+-- Tamponade, Cardiac
+-- Toxins
+-- Thrombosis, Pulmonary
+-- Thrombosis, coronary

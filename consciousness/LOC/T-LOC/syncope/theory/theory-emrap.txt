@@ -1,0 +1,57 @@
+desktop/med-text/ER/emrap-collections/cardio/syncope.txt 
+
+Article конечно для больничной сцены. 
+Вызов врачу - кто-то скопытился. 
+
+Понятно, что мы не знаем наперёд, это T-LOC или LOC надолго. 
+В любом случае, начинаем традиционно с ABCD 
+
+------------  Airway/breathing --------------------------------------
+-- Дать O2, если возможно. 
+-- Если есть ресурсы, то привлечь неинвазивные способы доставки кислорода. 
+positive pressure ventilation ИЛИ таки intubation 
+
+------------- CIRCULATION -------------------------------------------
+Поц положить под cardiac monitoring и 12-lead ECG, чтобы искл угрожающие жизни причины синкопа 
+Дальше зависит от детеалей:
+    Pt presenting with dysrhythmias as a cause - should be treated for the specific rhythm. (Tachydysrhythmias \Bradydysrhythmias)
+    Pt presenting with shock from hemorrhage или sepsis -  volume expansion, blood, and pressors. (Approach to Undifferentiated Shock)
+
+------------ DISABILITY/EXPOSURE --------------------------------------
+Установи, нет ли признаков травмы associated with syncope.
+Установи, есть ли neurologic deficits, для которых потребуется workup в конексте stroke или aortic dissection.
+
+
+------------- синкоп --------------------------------------------------
+
+Syncope это короткая потеря сознания и постурального тонуса, к исчезают спонтанно к  baseline neurological function быстро, обычно в течение 1 минуты. 
+Это поможет отсеять судорги, сопровождаются более длительным post-ictal phase, или заподозрить другие неврол-ие причины, к будут спопровождаться неисчезающими симптомами. 
+Пре-синкоп (feeling of fainting without loss of consciousness, но не похожее на вертиго) имеет теже причины, что и синкоп. 
+
+---------- физиология ---------------------------------------------------
+10 секунд нарушенноой доставки крови к кортексу или ретикулярной формации приведёт к потере сознания. 
+
+
+Syncope в ER usa = 1.2% of all ED visits 
+Частыми причинами и не критическими являются: 
+-- vasovagal (reflex-mediated, 21%)
+-- orthostatic (9%)
+-- medication-related (7%)
+-- unknown (37%)
+-- сardiac dysrhythmias can account for 2% - 3% - но самая высокая летальность
+-- другие серьёзные причины   approximately 10% of ED presentations. 
+К серьёзным причинам отнсим:
+    ----subarachnoid hemorrhage
+    ---- pulmonary embolism
+    ---- ruptured ectopic pregnancy
+Эти состояния нужно отфильтровать в ED сосредоточившись на анамнезе (associated symptoms) и physical exam.
+--- кардио- и аритмии 
+
+--------------   PITFALLS ---------------------------------------------
+In contrast, diagnosing cardiac dysrhythmias как причину синкопа установить часто трудно, т.к. поц в в ED presentation уже НЕ имеют симптомов. 
+
+--------------- PEARLS ------------------------------------------------
+Для отлавливания cardiac syncope нужен ессно тщательный анамнез, physical exam и оценка риска. 
+Всем поцам сделать ECG  и русть лежать на мониторинге  2-3 hours в ED. 
+У тех, у кого такие сть ECG abnormalities и/или сопут-ие cardiac disease или в группе риска - обеспечить длительный мониторинг в палате наблюдения or outpatient. 
+

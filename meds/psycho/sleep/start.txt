@@ -1,0 +1,63 @@
+let op: check it. it's from twitter
+
+
+Предупреждение: понятие Beer (Бирса) criteria (препараты для для поцов > 65) 
+
+----------------- теория -------------------------------------------------
+Всё в основном крутится вокруг GABA-receptors с их суб-единицами
+исходно в мозге мы пытаемся фарм-ки повлиять на его три subunits.
+
+Стремимся к выбору препарата с более точечным эффектом, но иногда нужно долбонуть коврово. 
+
+
+-- GABA - and it's sub-units: α1 (sedation), α2 (тревога) and α3 subunits (тревога) 
+Есть препараты, к более тонкой настройки (препараты на Z) 
+Они ессно - α1 (sedation), α2 (тревога) and α3 subunits (тревога) 
+Пример: препараты на Z (Zolpidem, Zopiclone)
+
+-- GABA-A receptors: с его signaling
+
+--------------------- Выбор препарата -------------------------------------------------
+
+----------  Top: Нынешний "лучший" выбор советуют Lemborexant (нет в Го) ---------------
+
+----------  Second: Non-Benzo == Второй опцией наверное будут Z- препараты -------------
+
+Zolpidem / Zolpiclone / Es-zopiclone / Zaleplon 
+1. препараты на Z (Zolpidem, Zopiclone) - α1 (sedation) 
+Они избирательны и короткого действия ( имитируют приём алко - быстро заснуть)
+Идеален для безмятежных акашей
+
+Побочные эффекты: 
+-- Zolpiclone - нарушения вкуса 
+-- Zolpidem - расстройства ЖКТ
+Могут усили гипотензию у препаратов от давления.
+
+если поц с PTSS/тревогой, то надо подумать о других вариантах.
+Иначе поц проснётся среди ночи в окружении своих страхов. 
+
+----------- Last: Benzo*  -----------------------
+-- лоразепам - магическое средство при кататонии, к мы рассматривали в контексте 
+мимиков LOC. 
+catatonia: мышечное застывание впечетляет, но это уже вишенка, до этого нарушения GABA signaling с соответ-ими симптомами
+
+Q: Побробнее об альтернативах ?
+- ! Orexin blockers (Lemborexant 5мг - неизвестный мне препарат - 
+                   в Голландии ещё не зарегистрирован) 
+- Benzodiazepines (clonazepam (Petril), lorazepam ) 
+- Antihistamines (Hydroxyzine, promethazine)
+- Sedating antidepressants of different types:
+    ---- Trazodone (SARI) - unintended erections
+    ---- Mirtazapine low dose(NaSSAs)
+    ---- Tricyclic antidepressants(Amitriptyline (задержка мочи), nortriptyline, Dosulepin)
+
+- Second generation antipsychotics quetiapine (Seroquel 25 mg), olanzapine (Zyprexa )
+- Melatonin - not effective
+
+частные cases: 
+-- psycho хвалят Сероквел (quetiapine) 25 мг 
+-- тревожники ругают Золпидем за плохую память и таки сонливость утром (авто)
+-- Zolpiclone - может подсадить на addiction
+-- Triazolam 0.25-0.5 mg полу-период выведения 2-3 часа 
+
+
