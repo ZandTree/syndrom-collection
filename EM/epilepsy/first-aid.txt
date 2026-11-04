@@ -25,7 +25,7 @@ ABCD
 - мед помощь ---------
 - проверка глюкозы 
 - надеть маску с кислородом 
-- защёчно мидазолам ИЛИ i.v lorazepam (max 4 mg, 0.1mg/kg)
+- intranasal/i.m мидазолам ИЛИ i.v lorazepam (max 4 mg, 0.1mg/kg)
 - repeat once if still seizing (через 5-10  минут)
 - во вторую вену: i.v. levetiracetam OR i.v sodium valproate (or phenitoin/fos-phenitoin)
 - 

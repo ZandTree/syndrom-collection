@@ -1,11 +1,13 @@
-реанимация поца без пульса. check it
+реанимация поца без пульса (кардио арест) check it
+
+cardiac arrest: VF or pulsless VT 
 
 1. сначала ессно ручками: chest compressions 30:2
 2. unsynchronised DC shock 200J Biphasic 
 
 3. adrenaline 1 mg i.v every 3-5 min 
-4. amiodarone 300mg i.v. bolus 
-go on ....
+4. amiodarone 300mg i.v. bolus (флакон 150 мг в 3 мл, ИЛИ  50 мг на 1 мл )
+go on .... хе-хе, т.е это 6 МЛ болюсом? check
 нижн несколько иначе
 
 
@@ -24,13 +26,14 @@ go on ....
 первый dry shock - сухой,т.к. мы не даём адреналина
 все последующие будут wet shocks, т.к. мы добавим к электричеству препараты
 ко второму шоку - адреналин
-к третьему      - амиодарон 
+к третьему      - амиодарон (push and flush)
 
 -------------- no pulse -----------------------
 
 Shock (CPR), shock (CPR +epi), shock (CPR + lidocaine or amiodarone).
 сначала dry shock |=> потом wet shock
-
+В FB тоже говорится, что амиодарон делаем только после третьего шока 
+https://www.facebook.com/reel/1494540712737662
 
 Q: в чём мутность?
 Отв:

@@ -1,5 +1,15 @@
 В этой folder попытка сконцентрировать (острые) расстройства с потерей и снижение уровня сознания 
 
+
+note: ДЕТИ с нарушением сознания в папке EM/child/unresponsive
+
+
+pearl:
+=====
+AMS hyper-acute => stroke/intra-parenchymal bleed OR opiats/HYPO 
+AMS acute => вот здесь засияет MIST
+--------------- ниже - только о взрослых -----------------------
+
 Rabi: делает схему, очерченную кругами
 Q: Что в наружном слое?
 Это SAH and Cerebral Edema
@@ -50,6 +60,80 @@ Delirium может включать в себя Altered mental status (или �
  Stupor              T-LOC
  Coma                 │
                    Syncope/seirure/others
+
+
+-------------- MIST pos vs MIST neg  ----------------------
+Перед подходом к MIST neg -> попробуй проверить MIST pos
+
+1. 
+Мб ты пропустила условно гипер-кальций емию?
+Мб ты пропустила приём поц баклофена, к теперь не дают (withdrawl)
+
+see here ./delirium-zolpidem.txt
+
+2.
+If MIST neg => то придётся делать LP
+-- Есть pleo-cytosis - auto-immune / infection / para-neo-plastic 
+
+-- Нет pleo-cytosis, то имеем:
+
+Деменция\делирий  vs   психиатр   vs судорги    vs   особые виды stroke 
+
+A Деменция\делирий
+   --- rapid prog:
+      - prion / auto-immune encephalitis / CNS vasculitis 
+  --- neuro-de-gen:
+      - Альцгеймер / васкулярная деменция, а также  +/- делирий   
+
+B   Catatonia 
+
+C  stroke БЕЗ других симптомов, кроме как AMS 
+
+artery:
+   -- brainstem
+   -- thalamus
+   -- non-dominant parietal lobe 
+   -- frontal lobe
+
+D seirure 
+-- non-convulsive status 
+   --- epilepticus 
+   --- encephalitis -/+ others
+   --- drug indused (beta-lactams/cyclisporine/tacrolimus)
+
+--------------- time course - ГЛАВНОЕ в AMS ----------------------------
+
+pt 48 лет c AMS начавшееся 2 часа назад 
+                           vs 
+pt 48 лет с AMS, развившееся 8 недель прогрессивно когнитивно закрузилась 
+
+-------------- Общее правило --------------------------------------------
+Чем дольше период снижения когниции, тем больше шанс, что проблема в мозге 
+При быстром сценарии - сосудистое и проч
+
+------------------ теперь больше деталей --------------------------------
+
+-- гипер острое начало:
+   --- внутри:
+         --- stroke 
+         --- intra-paranchymal hemorrhage 
+   --- внешние:
+         --- опиаты 
+         --- ГИПО        
+
+-- острое начало:
+   начни с MIST +:
+   -- metabolic (hypo-Na,hyper-Ca)
+   -- infection (ParaNeoA, encephalitis) 
+   -- structural (sub-dural, PRES)
+   -- toxi 
+-- sub-acute:
+   -- rapidly progressed dementia:
+      -- prion/auto-immune encephalitis/CNS vasculitis 
+  -- sub-acute meningo-encephalitis 
+     (TBC, endemic mycosis, sarcoid,leptomen carinomatosis)  
+-- chronic:
+  -- Альгеймер, васкул деменция, Пакринсон           
 
 
 
