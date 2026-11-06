@@ -1,4 +1,5 @@
 Status epilepticus (see image ./status.jpg)
+see ./EM/child status (Midazolam intranasal)
 
 Отв: ессно об эпилепсии, однако есть и другие поводы: 
 - травма - человека ударили по голове 
@@ -6,14 +7,16 @@ Status epilepticus (see image ./status.jpg)
 - алкаш в периоде  withdrawal ИЛИ other withdrawals (бензо)
 - если молодая Ж, то эклампсия
 
+Безотносительно причины судорог: эклампсия или вот это всё, самый первый шак - кислород, а не попытка достать ректальный бензо
+ABCD  (см ниже)
 
-Ds: 
+----------------- Ds статуса ---------------- 
 - дольше 5 минут один приступ
 - повторные БЕЗ восстановления сознания 
 
 1. Ессно первым делом ABCD (intubation if needed)
-2. gluc check 
-3. protect airways 
+2. protect airways 
+3. gluc check 
 4. benzo's 
 
 Подходим и засекаем время в минутах 
@@ -21,10 +24,10 @@ ABCD
 - воротничок
 - под голову шарф 
 - перевернуть на левый бок 
+- надеть маску с кислородом (закрепи тегадермом)
 
-- мед помощь ---------
+--------------------- мед помощь ---------
 - проверка глюкозы 
-- надеть маску с кислородом 
 - intranasal/i.m мидазолам ИЛИ i.v lorazepam (max 4 mg, 0.1mg/kg)
 - repeat once if still seizing (через 5-10  минут)
 - во вторую вену: i.v. levetiracetam OR i.v sodium valproate (or phenitoin/fos-phenitoin)

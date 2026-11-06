@@ -1,9 +1,14 @@
-перевод статьи - Первый раз судорги 
-Initial Management of Seizure in Adults
-Author: Phil E.M. Smith, M.D.Author Info & Affiliations
-Published July 14, 2021
-N Engl J Med 2021;385:251-263
-DOI: 10.1056/NEJMcp202452
+----------- Первый раз судорги  ---------------------------------
+на основе статьи Initial Management of Seizure in Adults N Engl J Med July 14, 2021
+
+spoiler - ключевое слово здесь судорги должны быть unprovoked
+                                                    =======
+не дёргаться, сделать interictal EEG и  12-lead ECG 
+Предупредить не плавать
+лечение таблетками после первого приступа не начинать, unless риск:
+-- структ аномалии или очаг в покое
+-- это уже не прервый приступ
+
 
 -------------------- Затравка - Шо делать? ---------------------------------------------
 
@@ -14,13 +19,15 @@ DOI: 10.1056/NEJMcp202452
 Её МЧ заметил судорги, посинения лица, боковой прикус языка.
 дева пришла в сознание и память в амбюлансе
 
-В анаменезе: никогда не было судорог:  в частности 
+В анаменезе: никогда не было судорог:  
+в частности 
 -- не было подёргиваний ногами-руками НА РАССВЕТЕ (при пробуждении)
 -- чувствительности на мелькание света 
 -- blank spells (проверь) 
 
------------------- Conclusions и Recommendations -----------------------
-Ж с the first generalized tonic–clonic seizure developed after sleep loss и алко. 
+------------------ Выводы и рекомендации -----------------------
+Ж с впервые в жизни тон-клон генерализированными судоргами  после депривации сна  и алко. 
+
 Анаменз: это был  isolated event, без  myoclonic jerks или absences в прошлом.
 Нужно сделать MRI of the head, interictal EEG и  12-lead ECG. 
 Поц должна знать о рисках утопления и внезапной смерти. 
@@ -28,11 +35,23 @@ DOI: 10.1056/NEJMcp202452
 
 Медикация это не то, что стандартно назначат после первого раза однократных судорог.  
 Однако, если в межприступном периоде на ЭЭГ будет  spike-and-wave activity, отражающие высокий риск recurrent seizure, 
-то посоветуем деве таки начать терапию (levetiracetam + folate)
-Provided that this patient did not have depression or anxiety, I would favor levetiracetam administered with a folate supplement since the patient is of childbearing potential. 
-I would arrange follow-up in 2 months to review the patient’s response and adherence to the medication regimen and any adverse effects.
+то посоветуем деве таки начать терапию (levetiracetam(Кеппра) + folate)
+Q: почему именно Кеппру?
+Re: Учитывая, что дева не страдала дперой или тревогой - назначить levetiracetam + фолиевая (на случай, если она забеременеет). 
+control через  2 months - посмотреть на ответ и верность терапии, нуи побоч эффекты 
 
------------------ Обзор -----------------------------------------------------------------
+----------------- Обзор статистики -----------------------------------------------------
+y 5% будет один эпизод судорг, но только у половина разовьёт эпилепсию. 
+
+первого приступа - у 40% случится второй приступ в течение 5 лет
+у тех, у кого случился второй приступ - шанс 75%  
+у 2\3 поцев после 1-ого приступа не будет приступа в течение первых пяти лет. безотносительно дали ли им таблеток, или нет. 
+
+у 20-30% поцев на терапии будут побочные эффекты. 
+обычно: сонливость, нарушение походки, почки\печень, но мб очень серьёзными (аллерг,серд блоки)
+
+
+
 
 Встречаемость непровоцируемых судорого в первый раз среди взрослых - 23-61 случаев на 100 000 чел. 
 Судорги оказывают влияние на работу, соц контакты и вождение транспорта. 
@@ -40,7 +59,7 @@ I would arrange follow-up in 2 months to review the patient’s response and adh
 Обычно это происходит в первые два года после первого приступа. 
 Эпи чаще в развивающихся странах. 0.6 % в популяции 
 
--------------------Диагноз эпи ставится--------------------------------------------------
+------------------- Диагноз эпи ставится--------------------------------------------------
 Если было 2 непровоцируемых приступа (с разницей во времени более 24 часов)
 или 
 Если приступ был один (если он из рисковой группы рецидива приступа) (?)
@@ -76,9 +95,9 @@ sodium valproate,
 
 Анамнез может помочь в различении ТРЁХ основных причин T-LOC
 -- epileptic seizure (provoked or unprovoked)
--- syncope (reflex, orthostatic, or cardiac) 
+-- синкоп (reflex, orthostatic, or cardiac) 
 -- psychogenic nonepileptic seizure (which mimics a seizure but is caused by psychological distress rather than abnormal electrical activity in the brain)
--- есть ещё группа с rovoked seizures, к могут случиться в контексте  alcohol withdrawal, наркоты ( cocaine и methamphetamine), и metabolic disturbances (e.g., hypoglycemia или гипо-Na-emia). 
+-- есть ещё группа с рrovoked seizures, к могут случиться в контексте  alcohol withdrawal, наркоты ( cocaine и methamphetamine), и metabolic disturbances (e.g., hypoglycemia или гипо-Na-emia). 
 -- and the last: структурные аномалии в следствие hemorrhagic stroke, encephalitis, venous sinus thrombosis или опухолей.
 
 ------------------------ Классификации ----------------------------------------------
@@ -88,8 +107,9 @@ sodium valproate,
 Презентация будет зависеть от места короткого замыкания (generalized or focal) и патерна распределения. 
 
 Судорги могут возникнуть в любом возрасте и в любой ситуации. 
-Отсутствия продромы больше характерно для generalized onset, но приступ без продромы мб и при  focal-onset seizures, особенно, если очаг во фронтальной области. 
-Обычно при  focal-onset seizures одако есть какая-то аура "indescribable" aura — типа as déjà vu, или "rising" sensation в эпигастрии или ощущения вкуса или запаха, за которыми наступает transient altered awareness.
+Отсутствия продромы больше характерно для generalized onset, но приступ без продромы мб и при  focal-onset seizures, 
+особенно, если очаг во фронтальной области. 
+Обычно при  focal-onset seizures однако есть какая-то аура "indescribable" aura — типа as déjà vu, или "rising" sensation в эпигастрии или ощущения вкуса или запаха, за которыми наступает transient altered awareness.
 
 ---------------------------- Приступ -------------------------------------------
 
@@ -113,13 +133,13 @@ A convulsive seizure обычно состоит из тонической фа�
 ----------------- Brain Imaging --------------------------------------------------------
 
 Urgent brain imaging показан всем поцам с первым в жизни эпи приступом. 
-СТ полезна и доступна. Однако, нужна МРИ у большинства взрослых с первым приступом (особенно при focal-onset seizure) или ранней эпилепсии с detailed magnetic resonance imaging (
-MRI; ideally 3-T MRI with <3-mm slice thickness on T2-weighted imaging и fluid-attenuated inversion recovery11) is warranted to identify more subtle underlying causes such as hippocampal sclerosis, focal cortical dysplasia или опухоль, к можно прооперировать. 
+СТ полезна и доступна. Однако, нужна МРИ у большинства взрослых с первым приступом (особенно при focal-onset seizure) или ранней эпилепсии с detailed magnetic resonance imaging ( 
+ideally 3-T MRI with <3-mm slice thickness on T2-weighted imaging и fluid-attenuated inversion recovery11) is warranted to identify more subtle underlying causes such as hippocampal sclerosis, focal cortical dysplasia или опухоль, к можно прооперировать. 
 
----------------- Electroencephalography ЭЭГ --------------------------------------------
+----------------  ЭЭГ --------------------------------------------
 Интересное замечание: 
-Interictal EEG (ЭЭГ в межприступный период) у поца с первым приступом вряд ли поймает to capture another seizure, однако может спровоцировать psychogenic nonepileptic seizures. 
-
+Interictal EEG (ЭЭГ в межприступный период) у поца с первым приступом вряд ли поймает to capture another seizure, 
+однако может спровоцировать psychogenic nonepileptic seizures. 
 
 EEG наиболее информативна у поцов моложе 25 years of age, т.к. у этих поцов чаще наблюдается субклиническая межприступная активность, к может подтведить склонность к generalized seizure tendency и хорошо прогнозирует приступы в бдущем (70% positive predictive value).
 
@@ -129,8 +149,15 @@ EEG можно также провести в поликлинике с депр
 Наличие эпи активности между приступами - не торт (увеличенный риск рецидива в течение 1 года) 
 
 ------------------- Management ------------------------------------
+
+решение о терапии на основе результатов: 
+-- есть ли структурные аномалии мозга, к мб привести к судоргам
+-- если ли фокус на ЭЭГ в межприступном периоде 
+
+если temporal sclerosis (qualitative MRI) - анти-эпи помогут, при криптогенной эпи - шанс меньше. но в любом случае - наличие структурных изменений в мозге - увеличивают риск приступов. 
+
 Медикация - long-term терапия oral medication. Это в первую очередь при риске спонтанных судорого выше - judged to exceed 60% в течение последующих 10 лет.
-Цель - без судорого или минимальное их количество. Но не переусердствуй, т.к. если это не удаётся 100% , а ты нагружаешь мерами, то есть риск risk of sudden unexpected death in epilepsy (SUDEP) 
+Цель - без судорог или минимальное их количество. Но не переусердствуй, т.к. если это не удаётся 100% , а ты нагружаешь мерами, то есть риск risk of sudden unexpected death in epilepsy (SUDEP) 
 
 The initiation of long-term use of antiseizure medication is a major decision that is made by the patient and the clinician. Ессено хотелось бы иметь reasonable certainty в диагнозе epilepsy; 
 Не назначай противо эпи терапию как trial period, если не уверена в диагнозе. 
@@ -164,7 +191,7 @@ sodium valproate - противопоказан (10% of babies exposed to sodium
  Короче, вальпроат - хуже всех. 
  
 
--------------------------------- Effectiveness of Medications ---------------------------
+-------------------- Effectiveness of Medications ---------------------------
 примерно 50% became seizure-free на год после первой терапии .
 
 ....
