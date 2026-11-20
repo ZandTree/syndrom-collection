@@ -24,6 +24,7 @@ epi push (переходная стадия) - к epi drip (pump)
 я могу подливать в вену  от 5 до 20 μg/ml 
 -- 0.5 мл == 5 μg 
 -- 2 ml   == 20 μg 
+In case ./EM/anesthesia/case-OK-anaphylaxis.txt doc вводит взрослую дозу в 50 μg (5 ml; 10 μg/ml)
 
 
 Способ А 
