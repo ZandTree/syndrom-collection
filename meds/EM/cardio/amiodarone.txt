@@ -1,0 +1,20 @@
+check мб это новая добавка в препарат временное?
+
+дискуссия по поводу риска ГИПОТЕНЗИИ у поцев с амиодароном 
+
+
+In ./EM/CPR/no-pulse.txt описано введение
+У поца без пульса amiodarone вводится быстро - 2 мин?(check)
+
+Однако, у поца В СОЗНАНИИ амиодарон может  вызвать серьёзную гипотензию 
+Поэтому его поцу в сознании нужно вводить медленно 
+FB: amiodarone. Причиной этого является какой-то полисорбит 80 в составе, из-за чего это довольно вязкая жидкость , препарат нужно вводить в течение 10 минут.
+Q: А зачем в амиодароне вообще этот сорбит?
+Отв:
+it is an emulsifier. It keeps the amio disolved in the liquid carrier. 
+The polysorbate 80 is also the reason why you can't mix it in PVC bags or administer with PVC tubing because it will leech(выделять) DEHP (the plasticizer.)
+
+Почему вместо амиодарона не использовать тогда старый-добрый ЛИДОКАИН?
+Отв:
+потому что лидокаин нужно вводить снова и снова. К тому же он не полностью подавляет вентрикулярные нарушения ритма.
+lidocaine needs to be constantly redosed. It has been shown to have issues fully cancelling out ventricular rhythms as well.
