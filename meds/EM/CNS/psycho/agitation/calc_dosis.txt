@@ -18,3 +18,14 @@ administration volume = volume on hand
 
 в тетрадке (см бумаж версию) у меня подобный расчёт для универсальных доз                        
 
+например:
+чел весом 70 кг 
+расчитаем на основе 1mg per 1 kg: total 70mg 
+10 ml vial X 70mg
+------------------ = 1.4 ml 
+500 mg (vial)
+
+расчитаем на основе 0.5 mg per 1 kg: total 35 mg 
+10 ml vial X 35 mg
+------------------ = 0.7 ml 
+500 mg (vial)
