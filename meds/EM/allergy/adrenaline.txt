@@ -142,6 +142,7 @@ Emrap утерждает, что типичная macro drip капельниц�
 ==> 3 μg/min  epinephrine OR  3 ml раствора за минуту. 
 60 drops per minute = 3 mL or 3 μg/min of the epinephrine solution
 
+note: check 5 μg/min  (РЕ в амбулансе ) считается низкой дозой
 
 Титрование зависит от персестирования шока и нарушения дыхания - более высокой % 
             Reasoning behind the Dirty Epi Drip
